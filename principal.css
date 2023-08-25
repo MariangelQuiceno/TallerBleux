@@ -609,7 +609,7 @@ footer {
     margin-top: 1px;
 }
 
-main{    
+main {    
     display: flex;
     flex-direction: column;
 }
