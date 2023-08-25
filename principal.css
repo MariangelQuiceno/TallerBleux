@@ -599,4 +599,13 @@ ul {
         flex-direction: column;
     }
 
+  footer {
+    width: 100%;
+    background-color: #f3f3f3;
+    display: flex;
+    justify-content: space-around;
+    padding: 2.2rem;
+    margin-top: -4px;
+}
+
 }
