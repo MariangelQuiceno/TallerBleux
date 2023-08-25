@@ -487,7 +487,7 @@ span{
         margin: 8px;
     }
 
-    main{
+    .main{
     display: flex;
     flex-direction: column;
     }
