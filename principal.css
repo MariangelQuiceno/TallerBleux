@@ -423,7 +423,7 @@ span{
    .PP {
     width: 100%;
     background-color: #1e172f;
-    height: 70vh;
+    height: 69vh;
     display: flex;
     flex-direction: column;
     }
@@ -487,9 +487,17 @@ span{
         margin: 8px;
     }
 
-    .main{
+    main {
     display: flex;
     flex-direction: column;
+    }
+
+    footer {
+    width: 100%;
+    background-color: #f3f3f3;
+    display: flex;
+    justify-content: space-around;
+    padding: 1.1rem;
     }
 
 
