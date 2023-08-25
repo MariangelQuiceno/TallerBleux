@@ -583,12 +583,11 @@ body{
 .PP {
     width: 100%;
     background-color: #1e172f;
-    height: 120vh;
+    height: 115vh;
     display: flex;
     flex-direction: column;
 }
-
-
+    
 ul {
     list-style: none;
     margin-right: 0; 
