@@ -420,12 +420,12 @@ span{
         margin: 70px 0 128px 0;
     }
 
-    .PP {
-        width: 100%;
-        background-color: #1e172f;
-        height: 58vh;
-        display: flex;
-        flex-direction: column;
+   .PP {
+    width: 100%;
+    background-color: #1e172f;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
     }
 
     .imgcab {
@@ -486,6 +486,12 @@ span{
         width: 28px;
         margin: 8px;
     }
+
+    main{
+    display: flex;
+    flex-direction: column;
+    }
+
 
 }
 
