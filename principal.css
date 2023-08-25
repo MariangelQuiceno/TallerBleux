@@ -423,7 +423,7 @@ span{
     .PP {
         width: 100%;
         background-color: #1e172f;
-        height: 90vh;
+        height: 71vh;
         display: flex;
         flex-direction: column;
     }
@@ -569,7 +569,7 @@ body, html {
 .PP {
     width: 100%;
     background-color: #1e172f;
-    height: 90vh;
+    height: 115vh;
     display: flex;
     flex-direction: column;
 }
@@ -594,7 +594,7 @@ ul {
     .PP {
         width: 100%;
         background-color: #1e172f;
-        height: 90vh;
+        height: 115vh;
         display: flex;
         flex-direction: column;
     }
