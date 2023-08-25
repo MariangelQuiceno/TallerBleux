@@ -569,7 +569,7 @@ body, html {
 .PP {
     width: 100%;
     background-color: #1e172f;
-    height: 70vh;
+    height: 110vh;
     display: flex;
     flex-direction: column;
 }
@@ -601,12 +601,12 @@ footer {
 
 @media (max-width: 480px){
     .PP {
-        width: 100%;
-        background-color: #1e172f;
-        height: 87vh;
-        display: flex;
-        flex-direction: column;
-    }
+    width: 100%;
+    background-color: #1e172f;
+    height: 115vh;
+    display: flex;
+    flex-direction: column;
+}
 
   footer {
     width: 100%;
