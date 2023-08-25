@@ -600,6 +600,12 @@ footer {
 
 
 @media (max-width: 480px){
+
+.main{    
+    display: flex;
+    flex-direction: column;
+}
+    
 .PP {
     width: 100%;
     background-color: #1e172f;
