@@ -561,7 +561,7 @@ span{
 }
 
 @media (max-width: 768px){
-body, html {
+body{
     display: flex;
     flex-direction: column;
     background-color: #ffffff;
@@ -583,10 +583,10 @@ body, html {
 .PP {
     width: 100%;
     background-color: #1e172f;
-    height: 110vh;
+    height: 74vh;
     display: flex;
     flex-direction: column;
-}
+
 
 ul {
     list-style: none;
@@ -605,7 +605,6 @@ footer {
     display: flex;
     justify-content: space-around;
     padding: 2.2rem;
-    margin-top: 337px;
 }
 
 
@@ -615,7 +614,7 @@ footer {
 
 @media (max-width: 480px){
 
-.main{    
+main{    
     display: flex;
     flex-direction: column;
 }
@@ -623,7 +622,7 @@ footer {
 .PP {
     width: 100%;
     background-color: #1e172f;
-    height: 137vh;
+    height: 70vh;
     display: flex;
     flex-direction: column;
 }
