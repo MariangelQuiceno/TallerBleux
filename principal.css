@@ -600,12 +600,13 @@ footer {
 
 
 @media (max-width: 480px){
-    .PP {
+   .PP {
     width: 100%;
     background-color: #1e172f;
-    height: 115vh;
+    height: 119vh;
     display: flex;
     flex-direction: column;
+    margin-bottom: 2px;
 }
 
   footer {
